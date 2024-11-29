@@ -8,6 +8,7 @@
 - Si correct : *"gagné"*, sinon : *"perdu"*.
 
 **Lancer le jeu** : Exécutez `Jeu_Concept.py`.
+
 **Remarque** : Le jeu nécessite la bibliothèque **Pygame**. 
 
 ---
@@ -20,4 +21,5 @@
 - If correct: *"Won"*, otherwise: *"Lost"*.
 
 **How to Play**: Run `Jeu_Concept.py`.
+
 **Note**: The game requires the **Pygame** library.
